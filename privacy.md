@@ -1,4 +1,4 @@
-# Informativa sulla Privacy – CRM Context Filter
+# Informativa sulla Privacy – CRM Context Smart Filter
 
 **Data di efficacia:** 26 febbraio 2026  
 **Sviluppatore/Titolare:** Evotal SRLS
